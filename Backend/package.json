@@ -8,18 +8,11 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon index.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/akhil2k-lc/bookStoreApp.git"
-    },
-    "author": "Akhil",
+    "author": "Yuvraj",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/akhil2k-lc/bookStoreApp/issues"
-    },
-    "homepage": "https://github.com/akhil2k-lc/bookStoreApp#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
+        "body-parser": "^1.20.3",
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
         "express": "^4.18.3",
